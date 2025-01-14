@@ -11,7 +11,7 @@
 * Making it more fun to write JavaScript
 * Needed skills to land a job:  [10 Interview Questions Every JavaScript Developer Should Know in 2024]
 * How to handle your Imposter Syndrome
-* How to handle bro coding culture
+* How to handle bro coding culture, how to survive the complexity of the web
 
 ### Theory based on two demo's: a functional - and an object-oriented one
 
@@ -37,8 +37,11 @@ Topics we encounter when using the debugger from the **Sources** tab in DevTools
 Opdracht Refactor your JavaScript:
 * Object destructuring
 * Short circuiting
+* Spread operator
 * One responsibility rule for functions
-* Pseudo-Private Custom Properties (CSS)
+* Pseudo-Private Custom Properties (CSS scope)
+
+Bron: You don't know JS
 
 
 <!-- references -->
